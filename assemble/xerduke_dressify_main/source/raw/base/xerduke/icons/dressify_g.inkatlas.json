@@ -1,0 +1,132 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.6.0",
+    "WKitJsonVersion": "0.0.1",
+    "GameVersion": 1520,
+    "ExportedDateTime": "2022-08-06T10:43:12.6496079Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "C:\\Users\\dashe\\My Projects\\CP\\Dressify\\xerduke-DressifyAtelier\\source\\archive\\base\\xerduke\\icons\\dressify_blue.inkatlas"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "Type": "inkTextureAtlas",
+      "Properties": {
+        "activeTexture": "StaticTexture",
+        "cookingPlatform": "PLATFORM_PC",
+        "dynamicTexture": {
+          "DepotPath": 0,
+          "Flags": "Default"
+        },
+        "dynamicTextureSlot": {
+          "Type": "inkDynamicTextureSlot",
+          "Properties": {
+            "parts": [],
+            "texture": {
+              "DepotPath": 0,
+              "Flags": "Default"
+            }
+          }
+        },
+        "isSingleTextureMode": 1,
+        "parts": [],
+        "slices": [],
+        "slots": {
+          "Size": 3,
+          "Elements": [
+            {
+              "Type": "inkTextureSlot",
+              "Properties": {
+                "parts": [
+                  {
+                    "Type": "inkTextureAtlasMapper",
+                    "Properties": {
+                      "clippingRectInPixels": {
+                        "Type": "Rect",
+                        "Properties": {
+                          "bottom": 0,
+                          "left": 0,
+                          "right": 0,
+                          "top": 0
+                        }
+                      },
+                      "clippingRectInUVCoords": {
+                        "Type": "RectF",
+                        "Properties": {
+                          "Bottom": 1,
+                          "Left": 0,
+                          "Right": 1,
+                          "Top": 0
+                        }
+                      },
+                      "partName": "logo"
+                    }
+                  }
+                ],
+                "slices": [],
+                "texture": {
+                  "DepotPath": "base\\xerduke\\icons\\dressify_001.xbm",
+                  "Flags": "Default"
+                }
+              }
+            },
+            {
+              "Type": "inkTextureSlot",
+              "Properties": {
+                "parts": [
+                  {
+                    "Type": "inkTextureAtlasMapper",
+                    "Properties": {
+                      "clippingRectInPixels": {
+                        "Type": "Rect",
+                        "Properties": {
+                          "bottom": 0,
+                          "left": 0,
+                          "right": 0,
+                          "top": 0
+                        }
+                      },
+                      "clippingRectInUVCoords": {
+                        "Type": "RectF",
+                        "Properties": {
+                          "Bottom": 1,
+                          "Left": 0,
+                          "Right": 1,
+                          "Top": 0
+                        }
+                      },
+                      "partName": "logo"
+                    }
+                  }
+                ],
+                "slices": [],
+                "texture": {
+                  "DepotPath": "base\\xerduke\\icons\\dressify_001.xbm",
+                  "Flags": "Default"
+                }
+              }
+            },
+            {
+              "Type": "inkTextureSlot",
+              "Properties": {
+                "parts": [],
+                "slices": [],
+                "texture": {
+                  "DepotPath": "base\\xerduke\\icons\\dressify_001.xbm",
+                  "Flags": "Default"
+                }
+              }
+            }
+          ]
+        },
+        "texture": {
+          "DepotPath": 0,
+          "Flags": "Default"
+        },
+        "textureResolution": "UltraHD_3840_2160"
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}
