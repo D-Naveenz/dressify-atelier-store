@@ -42,8 +42,8 @@ protected cb func RegisterDressifyAtelierEXStore(event: ref<VirtualShopRegistrat
     "Dressify Store - Extra", 
     	aggregatedItems,
     	aggregatedPrices,
-    r"base/xerduke/icons/dressify_e.inkatlas",
-    n"logo",
+    r"base/xerduke/icons/dressify_atelier_icon.inkatlas",
+    n"slot_02",
     	aggregatedRarities
   );
 }

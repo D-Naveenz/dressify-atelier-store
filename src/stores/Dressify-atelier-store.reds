@@ -121,8 +121,8 @@ protected cb func RegisterDressifyAtelierStore(event: ref<VirtualShopRegistratio
     "Dressify Store", 
     	aggregatedItems,
     	aggregatedPrices,
-    r"base/xerduke/icons/dressify_g.inkatlas",
-    n"logo",
+    r"base/xerduke/icons/dressify_atelier_icon.inkatlas",
+    n"slot_01",
     	aggregatedRarities
   );
 }
