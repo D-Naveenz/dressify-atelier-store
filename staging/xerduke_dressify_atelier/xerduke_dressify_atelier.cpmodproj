@@ -2,8 +2,8 @@
 <CP77Mod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Author>XerDuke</Author>
   <Email>dndxduke@outlook.com</Email>
-  <Name>xerduke_dressify_main</Name>
-  <Version>1.0</Version>
+  <Name>xerduke_dressify_atelier</Name>
+  <Version>1.03</Version>
   <IsRedMod>false</IsRedMod>
   <ExecuteDeploy>false</ExecuteDeploy>
 </CP77Mod>
