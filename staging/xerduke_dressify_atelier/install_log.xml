@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="xerduke_dressify_atelier" Build_date="6/30/2023 7:10:09 PM">
+  <Files>
+    <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive">
+      <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc">
+        <Directory Path="C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod">
+          <file>C:\Program Files (x86)\Steam\steamapps\common\Cyberpunk 2077\archive\pc\mod\xerduke_dressify_atelier.archive</file>
+        </Directory>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>
