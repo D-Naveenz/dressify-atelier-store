@@ -1,0 +1,50 @@
+HANAKO CROPTOP (Note : THIS REPLACES THE V CASUAL TANK so u have to unintall this refit : "BOOBAFIT_Sneaky_VCasualTank.archive")
+
+Game.AddToInventory("Items.TShirt_03_basic_01", 1)
+Game.AddToInventory("Items.TShirt_03_basic_02", 1)
+Game.AddToInventory("Items.TShirt_03_basic_03", 1) 
+Game.AddToInventory("Items.TShirt_03_old_01", 1) 
+Game.AddToInventory("Items.TShirt_03_old_02", 1) 
+Game.AddToInventory("Items.TShirt_03_old_03", 1)
+Game.AddToInventory("Items.TShirt_03_rich_01", 1) 
+Game.AddToInventory("Items.TShirt_03_rich_02", 1)
+Game.AddToInventory("Items.TShirt_03_rich_03", 1)
+Game.AddToInventory("Items.Q001_TShirt", 1)
+
+
+
+CROPPED TUBE : 
+
+Game.AddToInventory("Items.FormalShirt_02_basic_01", 1)
+Game.AddToInventory("Items.FormalShirt_02_basic_02", 1)
+Game.AddToInventory("Items.FormalShirt_02_basic_03", 1)
+Game.AddToInventory("Items.FormalShirt_02_basic_04", 1)
+Game.AddToInventory("Items.FormalShirt_02_old_01", 1)
+Game.AddToInventory("Items.FormalShirt_02_old_02", 1)
+Game.AddToInventory("Items.FormalShirt_02_old_03", 1)
+Game.AddToInventory("Items.FormalShirt_02_rich_01", 1)
+Game.AddToInventory("Items.FormalShirt_02_rich_02", 1)
+Game.AddToInventory("Items.FormalShirt_02_rich_03", 1)
+
+
+ALT JACKET DEFAULT :
+
+Game.AddToInventory("Items.Jacket_08_old_01",1)
+
+
+
+DENNY CORSET CROPPED :
+
+Game.AddToInventory("Items.LooseShirt_02_basic_01",1)
+Game.AddToInventory("Items.LooseShirt_02_basic_02",1)
+Game.AddToInventory("Items.LooseShirt_02_old_01",1)
+Game.AddToInventory("Items.LooseShirt_02_old_02",1)
+Game.AddToInventory("Items.LooseShirt_02_rich_01",1)
+Game.AddToInventory("Items.LooseShirt_02_rich_02",1)
+
+
+POZER / JOHNNY JACKET :
+
+Game.AddToInventory("Items.SQ031_Samurai_Jacket",1)
+
+

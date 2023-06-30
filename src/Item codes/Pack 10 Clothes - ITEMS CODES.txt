@@ -1,0 +1,103 @@
+V PANTS :
+
+Game.AddToInventory("Items.Pants_03_basic_01", 1)
+Game.AddToInventory("Items.Pants_03_basic_02", 1)
+Game.AddToInventory("Items.Pants_03_basic_03", 1)
+Game.AddToInventory("Items.Pants_03_old_01", 1)
+Game.AddToInventory("Items.Pants_03_old_02", 1)
+Game.AddToInventory("Items.Pants_03_old_03", 1)
+Game.AddToInventory("Items.Pants_03_rich_01", 1)
+Game.AddToInventory("Items.Pants_03_rich_02", 1)
+Game.AddToInventory("Items.Pants_03_rich_03", 1)
+Game.AddToInventory("Items.Solo_01_Set_Pants",1)
+Game.AddToInventory("Items.Q001_Pants", 1)
+
+
+HIGH THONG :
+
+Game.AddToInventory("Items.Shorts_03_basic_01", 1)
+Game.AddToInventory("Items.Shorts_03_basic_02", 1)
+Game.AddToInventory("Items.Shorts_03_basic_03", 1)
+Game.AddToInventory("Items.Shorts_03_old_01", 1)
+Game.AddToInventory("Items.Shorts_03_rich_01", 1)
+
+
+BEACH UNDERWEAR :
+
+Game.AddToInventory("Items.Shorts_02_basic_01",1)
+Game.AddToInventory("Items.Shorts_02_basic_02",1)
+Game.AddToInventory("Items.Shorts_02_old_01",1)
+Game.AddToInventory("Items.Shorts_02_rich_01",1)
+
+
+8UG RUNNERSUIT EDIT :
+
+Game.AddToInventory("Items.Coat_02_basic_01",1)
+Game.AddToInventory("Items.Coat_02_basic_02",1)
+Game.AddToInventory("Items.Coat_02_old_01",1)
+Game.AddToInventory("Items.Coat_02_old_02",1)
+Game.AddToInventory("Items.Coat_02_old_03",1)
+Game.AddToInventory("Items.Coat_02_old_04",1)
+
+
+MOX PANTS :
+
+Game.AddToInventory("Items.Boots_06_basic_01", 1)
+Game.AddToInventory("Items.Boots_06_basic_02", 1)
+Game.AddToInventory("Items.Boots_06_old_01", 1)
+Game.AddToInventory("Items.Boots_06_old_02", 1)
+Game.AddToInventory("Items.Boots_06_rich_01", 1)
+Game.AddToInventory("Items.Boots_06_rich_02", 1)
+Game.AddToInventory("Items.Netrunner_01_Set_Shoes",1)
+
+
+
+TIGHT PANTS :
+
+Game.AddToInventory("Items.Pants_01_basic_01", 1)
+Game.AddToInventory("Items.Pants_01_basic_02", 1)
+Game.AddToInventory("Items.Pants_01_basic_03", 1)
+Game.AddToInventory("Items.Pants_01_old_01", 1)
+Game.AddToInventory("Items.Pants_01_old_02", 1)
+Game.AddToInventory("Items.Pants_01_old_03", 1)
+Game.AddToInventory("Items.Pants_01_rich_01", 1)
+Game.AddToInventory("Items.Pants_01_rich_02", 1)
+Game.AddToInventory("Items.Pants_01_rich_03", 1)
+
+
+ROCKER PANTS TIGHT :
+
+Game.AddToInventory("Items.Pants_09_basic_01",1)
+Game.AddToInventory("Items.Pants_09_basic_02",1)
+Game.AddToInventory("Items.Pants_09_old_01",1)
+Game.AddToInventory("Items.Pants_09_old_02",1)
+Game.AddToInventory("Items.Pants_09_old_03",1)
+Game.AddToInventory("Items.Pants_09_rich_01",1)
+Game.AddToInventory("Items.Pants_09_rich_02",1)
+
+
+LEATHER PANTS :
+
+Game.AddToInventory("Items.Pants_05_rich_02", 1)
+
+
+JUDY PANTS :
+
+Game.AddToInventory("Items.Pants_07_basic_01", 1)
+Game.AddToInventory("Items.Pants_07_basic_02", 1)
+Game.AddToInventory("Items.Pants_07_basic_03", 1)
+Game.AddToInventory("Items.Pants_07_old_01", 1)
+Game.AddToInventory("Items.Pants_07_old_02", 1)
+Game.AddToInventory("Items.Pants_07_old_03", 1)
+Game.AddToInventory("Items.Pants_07_rich_01", 1)
+Game.AddToInventory("Items.Pants_07_rich_02", 1)
+Game.AddToInventory("Items.Pants_07_rich_03", 1)
+
+
+SHORT OPEN SIDE :
+
+Game.AddToInventory("Items.Shorts_04_old_01",1)
+Game.AddToInventory("Items.Shorts_04_old_02",1)
+Game.AddToInventory("Items.Shorts_04_old_03",1)
+Game.AddToInventory("Items.Shorts_04_old_04",1)
+

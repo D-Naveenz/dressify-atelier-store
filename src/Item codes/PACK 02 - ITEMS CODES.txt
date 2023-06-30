@@ -1,0 +1,51 @@
+
+GODDESS DRESS :
+
+Game.AddToInventory("Items.Jacket_17_basic_02",1)
+
+
+
+ROMPER CHIC BODYSUIT :
+
+Game.AddToInventory("Items.Jacket_11_old_01",1)
+Game.AddToInventory("Items.Jacket_11_old_02",1)
+Game.AddToInventory("Items.Jacket_11_rich_02",1)
+Game.AddToInventory("Items.Jacket_11_basic_01",1)
+Game.AddToInventory("Items.Jacket_11_basic_02",1)
+Game.AddToInventory ("Items.Rockerboy_01_Set_Jacket", 1)
+
+(Note : the color of the "rich_01" doesn't work)
+
+
+
+COW GIRL TOP :
+
+Game.AddToInventory("Items.Vest_19_basic_01", 1)
+Game.AddToInventory("Items.Vest_19_basic_02", 1)
+Game.AddToInventory("Items.Vest_19_old_01", 1)
+Game.AddToInventory("Items.Vest_19_rich_01", 1)
+Game.AddToInventory("Items.Vest_19_rich_02", 1)
+
+
+EVELYN COAT / JACKET CROPPED : 
+
+Game.AddToInventory("Items.Coat_04_basic_01", 1)
+Game.AddToInventory("Items.Coat_04_basic_02", 1)
+Game.AddToInventory("Items.Coat_04_basic_03", 1)
+Game.AddToInventory("Items.Coat_04_old_01", 1)
+Game.AddToInventory("Items.Coat_04_old_02", 1)
+Game.AddToInventory("Items.Coat_04_rich_01", 1)
+Game.AddToInventory("Items.Coat_04_rich_02", 1)
+
+
+ROGUE BOMBER JACKET : 
+
+Game.AddToInventory("Items.Jacket_03_old_01",1)
+Game.AddToInventory("Items.Jacket_03_old_02",1)
+Game.AddToInventory("Items.Jacket_03_rich_01",1)
+Game.AddToInventory("Items.Jacket_03_rich_02",1)
+Game.AddToInventory("Items.Jacket_03_basic_01",1)
+Game.AddToInventory("Items.Jacket_03_basic_02",1)
+Game.AddToInventory("Items.Jacket_03_basic_03",1)
+Game.AddToInventory("Items.Jacket_03_basic_04",1)
+

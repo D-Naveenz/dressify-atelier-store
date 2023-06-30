@@ -1,0 +1,64 @@
+Open side tank set :
+
+Game.AddToInventory("Items.TShirt_06_basic_01", 1)
+Game.AddToInventory("Items.TShirt_06_basic_02", 1)
+Game.AddToInventory("Items.TShirt_06_old_01", 1)
+Game.AddToInventory("Items.TShirt_06_old_02", 1)
+Game.AddToInventory("Items.TShirt_06_rich_01", 1)
+Game.AddToInventory("Items.TShirt_06_rich_02", 1)
+
+
+
+Lounge bra set :
+
+Game.AddToInventory("Items.Undershirt_02_basic_01", 1)
+Game.AddToInventory("Items.Undershirt_02_basic_02", 1)
+Game.AddToInventory("Items.Undershirt_02_rich_01", 1)
+Game.AddToInventory("Items.Undershirt_02_rich_02", 1)
+Game.AddToInventory("Items.Rockerboy_01_Set_TShirt",1)
+
+
+CUT OUT BODYSUIT :
+
+Game.AddToInventory("Items.Shirt_03_basic_01", 1)
+Game.AddToInventory("Items.Shirt_03_basic_02", 1)
+Game.AddToInventory("Items.Shirt_03_basic_03", 1)
+Game.AddToInventory("Items.Shirt_03_old_01", 1)
+Game.AddToInventory("Items.Shirt_03_old_02", 1)
+Game.AddToInventory("Items.Shirt_03_old_03", 1)
+Game.AddToInventory("Items.Shirt_03_rich_01", 1)
+Game.AddToInventory("Items.Shirt_03_rich_02", 1)
+Game.AddToInventory("Items.Shirt_03_rich_03", 1)
+
+
+LONGSLEEVE BODYSUIT :
+
+Game.AddToInventory("Items.Jacket_16_basic_01", 1)
+Game.AddToInventory("Items.Jacket_16_basic_02", 1)
+Game.AddToInventory("Items.Jacket_16_old_01", 1)
+Game.AddToInventory("Items.Jacket_16_old_02", 1)
+Game.AddToInventory("Items.Jacket_16_rich_01", 1)
+
+
+
+MERCENARY SUIT :
+
+Game.AddToInventory("Items.TShirt_01_old_01",1)
+Game.AddToInventory("Items.TShirt_01_old_02",1)
+Game.AddToInventory("Items.TShirt_01_old_03",1)
+Game.AddToInventory("Items.TShirt_01_rich_01",1)
+Game.AddToInventory("Items.TShirt_01_rich_02",1)
+Game.AddToInventory("Items.TShirt_01_rich_03",1)
+Game.AddToInventory("Items.TShirt_01_basic_01",1)
+Game.AddToInventory("Items.TShirt_01_basic_02",1)
+Game.AddToInventory("Items.TShirt_01_basic_03",1)
+
+
+
+
+
+
+
+
+
+

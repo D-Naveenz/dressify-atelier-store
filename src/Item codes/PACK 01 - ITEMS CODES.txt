@@ -1,0 +1,53 @@
+
+
+ROGUE TANK LONG
+
+Game.AddToInventory("Items.TShirt_07_basic_01", 1)
+Game.AddToInventory("Items.TShirt_07_basic_02", 1)
+Game.AddToInventory("Items.TShirt_07_old_01", 1)
+Game.AddToInventory("Items.TShirt_07_old_02", 1)
+Game.AddToInventory("Items.TShirt_07_rich_01", 1)
+Game.AddToInventory("Items.TShirt_07_rich_02", 1)
+Game.AddToInventory("Items.Q203_Epilogue_TShirt", 1)
+
+
+
+SLEEVELESS BODYSUIT :
+
+Game.AddToInventory("Items.TShirt_04_old_01", 1)
+Game.AddToInventory("Items.TShirt_04_old_02", 1)
+Game.AddToInventory("Items.TShirt_04_old_03", 1)
+Game.AddToInventory("Items.TShirt_04_old_04", 1)
+Game.AddToInventory("Items.TShirt_04_old_05", 1)
+Game.AddToInventory("Items.TShirt_04_old_06", 1)
+
+
+
+RACING JACKET :
+
+Game.AddToInventory("Items.Jacket_10_old_01",1)
+Game.AddToInventory("Items.Jacket_10_old_02",1)
+Game.AddToInventory("Items.Jacket_10_rich_01",1)
+Game.AddToInventory("Items.Jacket_10_rich_02",1)
+Game.AddToInventory("Items.Jacket_10_basic_01",1)
+Game.AddToInventory("Items.Jacket_10_basic_02",1)
+
+
+HANAKO DRESS :
+
+Game.AddToInventory("Items.Dress_01_basic_01", 1)
+Game.AddToInventory("Items.Dress_01_basic_02", 1)
+Game.AddToInventory("Items.Dress_01_basic_03",1)
+Game.AddToInventory("Items.Dress_01_rich_01", 1)
+Game.AddToInventory("Items.Dress_01_rich_02", 1)
+Game.AddToInventory("Items.Dress_01_rich_03",1)
+
+
+SHORT TORN :
+
+Game.AddToInventory("Items.TShirt_09_old_01",1)
+Game.AddToInventory("Items.TShirt_09_old_02",1)
+Game.AddToInventory("Items.TShirt_09_basic_01",1)
+Game.AddToInventory("Items.TShirt_09_basic_02",1)
+
+
